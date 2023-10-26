@@ -1,0 +1,815 @@
+2023-10-20 13:26:32,647 [main] INFO TestCase1.class - Successfully Launched the TODO MVC
+2023-10-20 13:26:32,741 [main] INFO TestCase1.class - Adding the Tasks
+2023-10-20 13:26:36,134 [main] INFO TestCase1.class - Verifying the added Tasks
+2023-10-20 13:26:36,134 [main] INFO TestCase1.class - Selecting the Task
+2023-10-20 16:06:47,241 [main] INFO TestCase1.class - Successfully Launched the TODO MVC
+2023-10-20 16:06:47,360 [main] INFO TestCase1.class - Adding the Tasks
+2023-10-20 16:06:51,063 [main] INFO TestCase1.class - Verifying the added Tasks
+2023-10-20 16:06:51,064 [main] INFO TestCase1.class - Selecting the Task
+2023-10-20 16:07:31,588 [main] INFO TestCase1.class - Successfully Launched the TODO MVC
+2023-10-20 16:07:31,717 [main] INFO TestCase1.class - Adding the Tasks
+2023-10-20 16:07:35,366 [main] INFO TestCase1.class - Verifying the added Tasks
+2023-10-20 16:07:35,367 [main] INFO TestCase1.class - Selecting the Task
+2023-10-21 00:43:27,659 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 00:43:27,741 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 00:43:31,164 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-21 00:43:31,164 [main] INFO Tests.TestCase1 - Selecting the Task
+2023-10-21 00:51:17,768 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 00:51:17,974 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due java.io.FileNotFoundException: C:\Users\AIN126\eclipse-workspace1\Demo_Test\screenshots\20231021125117.png (The system cannot find the path specified)
+2023-10-21 00:52:14,645 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 00:52:14,831 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due java.io.FileNotFoundException: C:\Users\AIN126\eclipse-workspace1\Demo_Test\screenshots\20231021125214.png (The system cannot find the path specified)
+2023-10-21 00:54:15,631 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 00:54:15,747 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due java.io.FileNotFoundException: C:\Users\AIN126\eclipse-workspace1\Demo_Test\screenshots\20231021125415.png (The system cannot find the path specified)
+2023-10-21 00:55:17,574 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 00:55:17,933 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 00:55:17,933 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 00:55:21,306 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-21 00:55:21,306 [main] INFO Tests.TestCase1 - Selecting the Task
+2023-10-21 01:17:52,694 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 01:17:52,964 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 01:17:52,964 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 01:17:56,352 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-21 01:17:56,352 [main] INFO Tests.TestCase1 - Selecting the Task
+2023-10-21 01:38:16,549 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 01:38:16,823 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 01:38:16,824 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 01:38:18,121 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-21 01:38:18,151 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-21 01:40:11,784 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 01:40:12,132 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 01:40:12,132 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 01:42:53,633 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 01:42:53,955 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 01:42:53,955 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 01:42:55,250 [main] INFO Tests.TestCase1 - Tasks are not Added 
+2023-10-21 01:42:55,281 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-21 01:44:26,606 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 01:44:26,901 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 01:44:26,901 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 01:44:28,162 [main] ERROR Tests.TestCase1 - Tasks are not added 
+2023-10-21 01:44:28,192 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-21 01:45:48,517 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 01:45:48,792 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 01:45:48,792 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 01:45:50,080 [main] ERROR Tests.TestCase1 - Tasks are not added 
+2023-10-21 01:45:50,225 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=class name, value=todo-count}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61229}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61229/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2023-10-21 01:47:28,944 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 01:47:29,282 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 01:47:29,283 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 01:47:30,568 [main] ERROR Tests.TestCase1 - Tasks are not added 
+2023-10-21 01:47:30,599 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-21 01:50:01,487 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 01:50:01,780 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 01:50:01,781 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 01:50:03,072 [main] ERROR Tests.TestCase1 - Tasks are not added 
+2023-10-21 02:13:52,132 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 02:13:52,293 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"#/active"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a22354de93091fc50f6d7232e6768a1e, findElement {using=link text, value=#/active}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63036}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63036/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a22354de93091fc50f6d7232e6768a1e
+2023-10-21 02:14:36,416 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 02:14:36,784 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 02:14:36,785 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 02:14:38,087 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-21 02:14:38,116 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-21 02:14:38,899 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 02:14:39,225 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 02:14:39,225 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 02:14:40,500 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-21 02:14:40,529 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-21 02:15:17,751 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 02:15:18,128 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 02:15:18,129 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 02:15:19,398 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-21 02:15:19,427 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-21 02:15:20,139 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 02:15:20,350 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"#/active"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8394c56950917917d1295ffe1c4e993f, findElement {using=link text, value=#/active}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63177}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63177/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8394c56950917917d1295ffe1c4e993f
+2023-10-21 02:16:14,923 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 02:16:15,276 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 02:16:15,276 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 02:16:16,550 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-21 02:16:16,580 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-21 02:16:17,290 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 02:16:17,504 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=118.0.5993.89)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [853a60ba88f1660690ede4210a551289, clickElement {id=F7E2FDBF5956106FD087217369A746A2_element_6}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63262}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63262/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (853a60ba88f1660690ede4210a551289)] -> class name: selected]
+Session ID: 853a60ba88f1660690ede4210a551289
+2023-10-21 02:25:10,940 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 02:25:11,269 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 02:25:11,269 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 02:25:12,558 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-21 02:25:12,595 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-21 02:25:13,406 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 02:25:13,632 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=118.0.5993.89)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1db7d4b9f05318a78ee6bc147ac8b28c, clickElement {id=9082FF1AD28A978C9D34525C1D9B4870_element_6}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63793}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63793/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1db7d4b9f05318a78ee6bc147ac8b28c)] -> class name: selected]
+Session ID: 1db7d4b9f05318a78ee6bc147ac8b28c
+2023-10-21 02:26:36,079 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 02:26:36,448 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 02:26:36,448 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 02:26:37,746 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-21 02:26:37,776 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-21 02:26:38,466 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 02:26:38,679 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"a[href='#/selected']"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ef8997f9edfaae4a80446d33455b7b67, findElement {using=css selector, value=a[href='#/selected']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63903}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63903/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ef8997f9edfaae4a80446d33455b7b67
+2023-10-21 02:27:49,349 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 02:27:49,630 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-21 02:27:49,631 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-21 02:27:53,113 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-21 02:27:53,144 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-21 02:27:53,239 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-21 02:27:54,013 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-21 02:27:54,210 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"a[href='#/selected']"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b735f635cb7ff55a56d393c974c2c8d1, findElement {using=css selector, value=a[href='#/selected']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63992}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63992/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b735f635cb7ff55a56d393c974c2c8d1
+2023-10-24 15:38:24,516 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-24 15:38:25,094 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-24 15:38:25,095 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-24 15:38:28,886 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-24 15:38:28,953 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-24 15:38:29,134 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-24 15:38:30,662 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-24 15:38:30,955 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression [@class="toggle"]/following-sibling ::label because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '[@class="toggle"]/following-sibling ::label' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f21de0e326f772e5b00e8ccb88de0093, findElement {using=xpath, value=[@class="toggle"]/following-sibling ::label}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64254}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64254/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f21de0e326f772e5b00e8ccb88de0093
+2023-10-24 21:34:27,567 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-24 21:34:28,077 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-24 21:34:28,079 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-24 21:34:31,987 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-24 21:34:32,057 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-24 21:34:32,260 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-24 21:34:33,818 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-24 21:34:34,093 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression [@class='toggle']/following-sibling ::label because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '[@class='toggle']/following-sibling ::label' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [65da9265df4d35eb65067c0874332a31, findElement {using=xpath, value=[@class='toggle']/following-sibling ::label}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62687}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62687/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65da9265df4d35eb65067c0874332a31
+2023-10-24 21:43:08,838 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-24 21:43:09,121 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"input[@class='toggle']/following-sibling :: label"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [19f9b307aa9c0c1fc559f3d8c2d03de1, findElement {using=xpath, value=input[@class='toggle']/following-sibling :: label}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63065}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63065/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 19f9b307aa9c0c1fc559f3d8c2d03de1
+2023-10-24 21:43:27,537 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-24 21:43:28,123 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-24 21:43:28,124 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-24 21:43:31,913 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-24 21:43:31,970 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-24 21:43:32,115 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-24 21:43:33,677 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-24 21:43:33,869 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"input[@class='toggle']/following-sibling :: label"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d5c43370992f9e5ed177c8df9e565861, findElement {using=xpath, value=input[@class='toggle']/following-sibling :: label}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63120}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63120/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d5c43370992f9e5ed177c8df9e565861
+2023-10-24 21:44:53,509 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-24 21:44:53,968 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-24 21:44:53,969 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-24 21:44:57,842 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-24 21:44:57,890 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-24 21:44:58,014 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-24 21:44:58,060 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"input[@class='toggle']/following-sibling :: label"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b562af646e4b73f9ef063e8f9747a3db, findElement {using=xpath, value=input[@class='toggle']/following-sibling :: label}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63197}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63197/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b562af646e4b73f9ef063e8f9747a3db
+2023-10-24 22:00:01,388 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-24 22:00:01,913 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-24 22:00:01,914 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-24 22:00:05,647 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-24 22:00:05,709 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-24 22:00:05,847 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-24 22:02:42,156 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-24 22:02:42,690 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-24 22:02:42,691 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-24 22:02:46,665 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-24 22:02:46,724 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-24 22:02:46,851 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-24 22:09:49,969 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-24 22:09:50,541 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-24 22:09:50,543 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-24 22:09:54,331 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-24 22:09:54,391 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-24 22:09:54,519 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-24 22:09:54,695 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=118.0.5993.89)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3bdd0268a8eee321da9bea2598d0e9e9, clickElement {id=C6E6FF7CE28118167A6F054E214BD6EC_element_22}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64090}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64090/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[[[ChromeDriver: chrome on windows (3bdd0268a8eee321da9bea2598d0e9e9)] -> xpath: //input[@class="toggle"]/following-sibling ::label]] -> xpath: //following-sibling::button]
+Session ID: 3bdd0268a8eee321da9bea2598d0e9e9
+2023-10-24 22:17:51,505 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-24 22:17:51,882 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-24 22:17:51,883 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-24 22:17:55,620 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-24 22:17:55,681 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-24 22:17:55,799 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-24 22:18:38,462 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-24 22:18:38,828 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-24 22:18:38,829 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-24 22:18:42,735 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-24 22:18:42,794 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-24 22:18:42,925 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-24 22:28:14,208 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-24 22:28:14,710 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-24 22:28:14,711 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-24 22:28:18,491 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-24 22:28:18,545 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-24 22:28:18,671 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-24 22:28:18,734 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //label[@text()= 'T2']/following-sibling ::button) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//label[@text()= 'T2']/following-sibling ::button)' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ff6792867542b24689c6f8895a4bc541, findElement {using=xpath, value=//label[@text()= 'T2']/following-sibling ::button)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49216}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49216/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ff6792867542b24689c6f8895a4bc541
+2023-10-24 22:32:42,627 [main] INFO Tests.TestCase1 - Exception is : Please check URL entered org.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=118.0.5993.89)
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4ddc79288a7eefc5fd95e170d546bf25, get {url=https://todomvc.com/examples/vue/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49789}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49789/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4ddc79288a7eefc5fd95e170d546bf25
+2023-10-24 22:32:42,861 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(text(),'todos')]"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4ddc79288a7eefc5fd95e170d546bf25, findElement {using=xpath, value=//h1[contains(text(),'todos')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49789}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49789/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4ddc79288a7eefc5fd95e170d546bf25
+2023-10-25 10:59:53,506 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 10:59:53,811 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 10:59:53,812 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 10:59:57,334 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 10:59:57,369 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 10:59:57,501 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 10:59:57,532 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //label[contains(text(), 'T2']/following-sibling ::button) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//label[contains(text(), 'T2']/following-sibling ::button)' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d422216e10896853aae328a82ee12a70, findElement {using=xpath, value=//label[contains(text(), 'T2']/following-sibling ::button)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50525}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50525/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d422216e10896853aae328a82ee12a70
+2023-10-25 11:16:23,605 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 11:16:23,899 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 11:16:23,900 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 11:16:27,458 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 11:16:27,487 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 11:16:27,570 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 11:16:27,597 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //label[text(), 'T2']/following-sibling ::button) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//label[text(), 'T2']/following-sibling ::button)' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4c3f11a11f92127eb8bb3a2f6887d900, findElement {using=xpath, value=//label[text(), 'T2']/following-sibling ::button)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51188}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51188/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4c3f11a11f92127eb8bb3a2f6887d900
+2023-10-25 11:17:27,657 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 11:17:28,012 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 11:17:28,012 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 11:17:31,551 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 11:17:31,580 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 11:17:31,660 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 11:17:31,686 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //label[text(),'T2']/following-sibling::button) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//label[text(),'T2']/following-sibling::button)' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [07a793e8ec9361e5973294b968b2c312, findElement {using=xpath, value=//label[text(),'T2']/following-sibling::button)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51249}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51249/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 07a793e8ec9361e5973294b968b2c312
+2023-10-25 11:22:28,552 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 11:22:28,956 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 11:22:28,956 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 11:22:32,473 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 11:22:32,502 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 11:22:32,577 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 11:26:40,003 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 11:26:40,298 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 11:26:40,299 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 11:26:44,323 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 11:26:44,351 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 11:26:44,444 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 11:28:28,248 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 11:28:29,157 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 11:28:29,158 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 11:28:32,676 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 11:28:32,706 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 11:28:32,798 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 11:28:32,824 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //label[text(),'T2']/preceding-sibling:: input) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//label[text(),'T2']/preceding-sibling:: input)' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [04d40b2f0a30318ee8178b43e420347b, findElement {using=xpath, value=//label[text(),'T2']/preceding-sibling:: input)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51698}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51698/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 04d40b2f0a30318ee8178b43e420347b
+2023-10-25 11:36:57,626 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 11:36:57,916 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 11:36:57,917 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 11:37:01,381 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 11:37:01,409 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 11:37:01,494 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 11:37:01,523 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //label[text(),'T2']/preceding-sibling::input) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//label[text(),'T2']/preceding-sibling::input)' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0e79f8cdd120f73f4223ce60c89a9076, findElement {using=xpath, value=//label[text(),'T2']/preceding-sibling::input)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51980}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51980/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0e79f8cdd120f73f4223ce60c89a9076
+2023-10-25 11:38:10,909 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 11:38:11,281 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 11:38:11,282 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 11:38:14,774 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 11:38:14,803 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 11:38:14,890 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 11:38:14,918 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //label[text()='T2']/preceding-sibling::input) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//label[text()='T2']/preceding-sibling::input)' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [306897b92c0f8cc29cc571b30e04792e, findElement {using=xpath, value=//label[text()='T2']/preceding-sibling::input)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52053}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52053/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 306897b92c0f8cc29cc571b30e04792e
+2023-10-25 11:46:34,760 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 11:46:35,127 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 11:46:35,128 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 11:46:38,641 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 11:46:38,667 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 11:46:38,751 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 11:46:38,778 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //label[text()='T2']/preceding-sibling::input) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//label[text()='T2']/preceding-sibling::input)' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [448ae368642662ca57cd8599663831e9, findElement {using=xpath, value=//label[text()='T2']/preceding-sibling::input)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52364}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52364/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 448ae368642662ca57cd8599663831e9
+2023-10-25 11:47:44,805 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 11:47:45,084 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 11:47:45,085 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 11:47:48,595 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 11:47:48,626 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 11:47:48,705 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 11:47:48,733 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //label[text()='T2']/preceding-sibling::input) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//label[text()='T2']/preceding-sibling::input)' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [267fff21699ba19bb7dcd358a2ba2cb2, findElement {using=xpath, value=//label[text()='T2']/preceding-sibling::input)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52428}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52428/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 267fff21699ba19bb7dcd358a2ba2cb2
+2023-10-25 11:49:34,720 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 11:49:35,029 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 11:49:35,030 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 11:49:38,485 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 11:49:38,514 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 11:49:38,612 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 11:49:38,640 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //label[text()='T1']/preceding-sibling::input) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//label[text()='T1']/preceding-sibling::input)' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [026d468e3676d70f587bbacc06c9c1af, findElement {using=xpath, value=//label[text()='T1']/preceding-sibling::input)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52508}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52508/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 026d468e3676d70f587bbacc06c9c1af
+2023-10-25 11:51:01,729 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 11:51:02,084 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 11:51:02,084 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 11:51:05,539 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 11:51:05,568 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 11:51:05,664 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 11:51:05,691 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //label[text()='T1']/preceding-sibling::input) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//label[text()='T1']/preceding-sibling::input)' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5d21c4ab4f450bf8e443011b40de6652, findElement {using=xpath, value=//label[text()='T1']/preceding-sibling::input)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52583}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52583/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d21c4ab4f450bf8e443011b40de6652
+2023-10-25 11:52:33,626 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 11:52:34,104 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 11:52:34,105 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 11:52:37,665 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 11:52:37,695 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 11:52:37,816 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 11:59:01,614 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 11:59:01,908 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 11:59:01,909 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 11:59:05,405 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 11:59:05,433 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 11:59:05,506 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 12:37:40,761 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 12:37:41,054 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 12:37:41,055 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 12:37:44,494 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 12:37:44,524 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 12:37:44,614 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 12:48:42,114 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 12:48:42,406 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 12:48:42,407 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 12:48:45,874 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 12:48:45,904 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 12:48:46,002 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 12:48:46,155 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //label[text()='T1' because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//label[text()='T1'' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [58dfb5da9aae11eb8ace3a2c5b9fc296, findElement {using=xpath, value=//label[text()='T1'}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55082}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55082/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 58dfb5da9aae11eb8ace3a2c5b9fc296
+2023-10-25 14:01:12,376 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 14:01:12,668 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 14:01:12,669 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 14:01:16,177 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 14:01:16,206 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 14:01:16,289 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 14:01:16,445 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //label[text()='T1' because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//label[text()='T1'' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [361c19d3360b4a37f4bc3ea547d7508f, findElement {using=xpath, value=//label[text()='T1'}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59765}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59765/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 361c19d3360b4a37f4bc3ea547d7508f
+2023-10-25 14:08:49,669 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 14:08:49,981 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 14:08:49,981 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 14:08:53,503 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 14:08:53,532 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 14:08:53,624 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 14:08:53,708 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"a[href='#/Completed']"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4e468182956f467035c302410b680088, findElement {using=css selector, value=a[href='#/Completed']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60050}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60050/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e468182956f467035c302410b680088
+2023-10-25 14:10:53,527 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 14:10:53,806 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 14:10:53,806 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 14:10:57,251 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 14:10:57,280 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 14:10:57,361 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 14:10:57,516 [main] ERROR Tests.TestCase1 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //label[text()='T1' because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//label[text()='T1'' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6a1231f40a48d26b4e8f8348c90eb709, findElement {using=xpath, value=//label[text()='T1'}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60146}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60146/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a1231f40a48d26b4e8f8348c90eb709
+2023-10-25 14:15:00,309 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 14:15:00,662 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 14:15:00,662 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 14:15:04,146 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 14:15:04,178 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 14:15:04,256 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 15:24:19,214 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 15:24:19,632 [main] INFO Tests.TestCase1 - To Do Label is Displayed
+2023-10-25 15:24:19,633 [main] INFO Tests.TestCase1 - Adding the Tasks
+2023-10-25 15:24:23,476 [main] INFO Tests.TestCase1 - Tasks Added Successfully
+2023-10-25 15:24:23,529 [main] INFO Tests.TestCase1 - Verifying the added Tasks
+2023-10-25 15:24:23,665 [main] INFO Tests.TestCase1 - Added Tasks are displayed successfully
+2023-10-25 15:24:23,782 [main] INFO Tests.TestCase1 - Successfully Launched the TODO MVC
+2023-10-25 15:24:23,945 [main] INFO Tests.TestCase1 - Verfying the Task Completion
+2023-10-25 15:24:24,375 [main] INFO Tests.TestCase1 - Able to complete task T1 successfully
+2023-10-25 15:24:24,490 [main] INFO Tests.TestCase1 - Verifying the clear complete functionality
+2023-10-25 15:24:24,639 [main] INFO Tests.TestCase1 - Clear Complete tasks is successful
+2023-10-25 15:47:30,352 [main] INFO Tests.TestCase2 - Successfully Launched the TODO MVC
+2023-10-25 15:47:30,549 [main] ERROR Tests.TestCase2 - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[contains(text(),'Vue.js')]"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [53952a09f1cb79f68e6d6d270446d9c3, findElement {using=xpath, value=//h3[contains(text(),'Vue.js')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63269}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63269/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 53952a09f1cb79f68e6d6d270446d9c3
+2023-10-25 15:49:17,275 [main] INFO Tests.TestCase2 - Successfully Launched the TODO MVC
+2023-10-25 15:49:17,526 [main] INFO Tests.TestCase2 - Verifying the Header Title
+2023-10-25 15:49:17,677 [main] INFO Tests.TestCase2 - Header Title is displaying
+2023-10-25 15:52:05,163 [main] INFO Tests.TestCase2 - Successfully Launched the TODO MVC
+2023-10-25 15:52:05,549 [main] INFO Tests.TestCase2 - Verifying the Header Title
+2023-10-25 15:52:05,714 [main] INFO Tests.TestCase2 - Header Title is displaying
+2023-10-25 15:52:05,930 [main] INFO Tests.TestCase2 - Exception is : Please check URL entered org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, get {url=https://todomvc.com/examples/vue/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63450}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63450/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2023-10-25 15:52:05,934 [main] ERROR Tests.TestCase2 - Test Case Status is Fail due org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63450}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63450/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2023-10-25 15:55:16,872 [main] INFO Tests.TestCase2 - Successfully Launched the TODO MVC
+2023-10-25 15:55:17,281 [main] INFO Tests.TestCase2 - Verifying the Header Title
+2023-10-25 15:55:17,453 [main] INFO Tests.TestCase2 - Header Title is displaying
+2023-10-25 15:55:17,698 [main] INFO Tests.TestCase2 - Exception is : Please check URL entered org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, get {url=https://todomvc.com/examples/vue/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63573}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63573/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2023-10-25 15:55:17,704 [main] ERROR Tests.TestCase2 - Test Case Status is Fail due org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63573}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63573/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2023-10-25 15:57:43,018 [main] INFO Tests.TestCase2 - Successfully Launched the TODO MVC
+2023-10-25 15:57:43,259 [main] ERROR Tests.TestCase2 - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Vue.js']"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [49c3a1c2a660aab29c449fcd724fd076, findElement {using=xpath, value=//h3[text()='Vue.js']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63667}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63667/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 49c3a1c2a660aab29c449fcd724fd076
+2023-10-25 15:57:43,487 [main] INFO Tests.TestCase2 - Successfully Launched the TODO MVC
+2023-10-25 15:57:43,846 [main] ERROR Tests.TestCase2 - Test Case Status is Fail due org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //span[className='source-links')]/following-sibling::h5 because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//span[className='source-links')]/following-sibling::h5' is not a valid XPath expression.
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [49c3a1c2a660aab29c449fcd724fd076, findElement {using=xpath, value=//span[className='source-links')]/following-sibling::h5}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63667}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63667/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 49c3a1c2a660aab29c449fcd724fd076
+2023-10-25 16:04:58,608 [main] INFO Tests.TestCase2 - Successfully Launched the TODO MVC
+2023-10-25 16:04:59,066 [main] INFO Tests.TestCase2 - Verifying the Header Title
+2023-10-25 16:04:59,233 [main] INFO Tests.TestCase2 - Header Title is displaying
+2023-10-25 16:04:59,354 [main] INFO Tests.TestCase2 - Successfully Launched the TODO MVC
+2023-10-25 16:04:59,555 [main] ERROR Tests.TestCase2 - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[class='source-links']/following-sibling::h5"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5c10822bfda04ede282142945bfec920, findElement {using=xpath, value=//span[class='source-links']/following-sibling::h5}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63934}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63934/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c10822bfda04ede282142945bfec920
+2023-10-26 11:43:05,464 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 11:43:05,504 [main] ERROR Tests.VerifyLeftMenuUI - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='http://vuejs.org/guide/']"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0c6d8e61e9b596d74cfc613cb41d3284, findElement {using=xpath, value=//a[@href='http://vuejs.org/guide/']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55616}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55616/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0c6d8e61e9b596d74cfc613cb41d3284
+2023-10-26 12:41:14,023 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 12:41:14,193 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Header Title
+2023-10-26 12:41:14,293 [main] INFO Tests.VerifyLeftMenuUI - Header Title is displaying
+2023-10-26 12:41:14,366 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 12:41:14,392 [main] ERROR Tests.VerifyLeftMenuUI - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[class='source-links']/following-sibling::h5"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [79838527a6f160e23fe2f8c9ded8f526, findElement {using=xpath, value=//span[class='source-links']/following-sibling::h5}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57446}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57446/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 79838527a6f160e23fe2f8c9ded8f526
+2023-10-26 12:41:14,543 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 12:41:14,576 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Official resources links
+2023-10-26 12:41:14,679 [main] INFO Tests.VerifyLeftMenuUI - Documentation link is displaying properly
+2023-10-26 12:41:14,822 [main] INFO Tests.VerifyLeftMenuUI - API Reference link is displaying properly
+2023-10-26 12:41:14,934 [main] INFO Tests.VerifyLeftMenuUI - Examples link is displaying properly
+2023-10-26 12:41:15,050 [main] INFO Tests.VerifyLeftMenuUI - Vue on Github link is displaying properly
+2023-10-26 13:28:24,455 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:28:24,614 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Header Title
+2023-10-26 13:28:24,744 [main] INFO Tests.VerifyLeftMenuUI - Header Title is displaying
+2023-10-26 13:28:24,811 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:28:24,840 [main] ERROR Tests.VerifyLeftMenuUI - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[class='source-links']/following-sibling::h5"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d6e7818159930ec4b3aa1ec7552b9f13, findElement {using=xpath, value=//span[class='source-links']/following-sibling::h5}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58889}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58889/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d6e7818159930ec4b3aa1ec7552b9f13
+2023-10-26 13:28:24,986 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:28:25,019 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Official Resources label
+2023-10-26 13:28:25,112 [main] INFO Tests.VerifyLeftMenuUI - Official Resources label is displaying properly
+2023-10-26 13:28:25,139 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Official resources links
+2023-10-26 13:28:25,227 [main] INFO Tests.VerifyLeftMenuUI - Documentation link is displaying properly
+2023-10-26 13:28:25,330 [main] INFO Tests.VerifyLeftMenuUI - API Reference link is displaying properly
+2023-10-26 13:28:25,438 [main] INFO Tests.VerifyLeftMenuUI - Examples link is displaying properly
+2023-10-26 13:28:25,545 [main] INFO Tests.VerifyLeftMenuUI - Vue on Github link is displaying properly
+2023-10-26 13:28:25,595 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:28:25,626 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Community label
+2023-10-26 13:28:25,732 [main] INFO Tests.VerifyLeftMenuUI - Community label is displaying properly
+2023-10-26 13:28:25,866 [main] INFO Tests.VerifyLeftMenuUI - Twitter link is displaying properly
+2023-10-26 13:28:25,997 [main] INFO Tests.VerifyLeftMenuUI - Gitter link is displaying properly
+2023-10-26 13:28:26,104 [main] INFO Tests.VerifyLeftMenuUI - Discussions on Github  link is displaying properly
+2023-10-26 13:29:45,292 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:29:45,551 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Header Title
+2023-10-26 13:29:45,660 [main] INFO Tests.VerifyLeftMenuUI - Header Title is displaying
+2023-10-26 13:29:45,722 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:29:45,748 [main] ERROR Tests.VerifyLeftMenuUI - Test Case Status is Fail due org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[class='source-links']/following-sibling::h5"}
+  (Session info: chrome=118.0.5993.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.14.1', revision: '03f8ede370'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [846728e808e763f702f1a30104dcd7f1, findElement {using=xpath, value=//span[class='source-links']/following-sibling::h5}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.89, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\AIN126\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58954}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58954/devtoo..., se:cdpVersion: 118.0.5993.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 846728e808e763f702f1a30104dcd7f1
+2023-10-26 13:29:45,888 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:29:45,919 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Official Resources label
+2023-10-26 13:29:46,003 [main] INFO Tests.VerifyLeftMenuUI - Official Resources label is displaying properly
+2023-10-26 13:29:46,032 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Official resources links
+2023-10-26 13:29:46,117 [main] INFO Tests.VerifyLeftMenuUI - Documentation link is displaying properly
+2023-10-26 13:29:46,231 [main] INFO Tests.VerifyLeftMenuUI - API Reference link is displaying properly
+2023-10-26 13:29:46,372 [main] INFO Tests.VerifyLeftMenuUI - Examples link is displaying properly
+2023-10-26 13:29:46,488 [main] INFO Tests.VerifyLeftMenuUI - Vue on Github link is displaying properly
+2023-10-26 13:29:46,537 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:29:46,570 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Community label
+2023-10-26 13:29:46,665 [main] INFO Tests.VerifyLeftMenuUI - Community label is displaying properly
+2023-10-26 13:29:46,764 [main] INFO Tests.VerifyLeftMenuUI - Twitter link is displaying properly
+2023-10-26 13:29:46,873 [main] INFO Tests.VerifyLeftMenuUI - Gitter link is displaying properly
+2023-10-26 13:29:46,981 [main] INFO Tests.VerifyLeftMenuUI - Discussions on Github  link is displaying properly
+2023-10-26 13:29:48,077 [main] INFO Tests.VerifyFunctionality - Successfully Launched the TODO MVC
+2023-10-26 13:29:48,434 [main] INFO Tests.VerifyFunctionality - To Do Label is Displayed
+2023-10-26 13:29:48,434 [main] INFO Tests.VerifyFunctionality - Adding the Tasks
+2023-10-26 13:29:51,924 [main] INFO Tests.VerifyFunctionality - Tasks Added Successfully
+2023-10-26 13:29:51,955 [main] INFO Tests.VerifyFunctionality - Verifying the added Tasks
+2023-10-26 13:29:52,033 [main] INFO Tests.VerifyFunctionality - Added Tasks are displayed successfully
+2023-10-26 13:29:52,102 [main] INFO Tests.VerifyFunctionality - Successfully Launched the TODO MVC
+2023-10-26 13:29:52,211 [main] INFO Tests.VerifyFunctionality - Verifying the Task Completion
+2023-10-26 13:29:52,454 [main] INFO Tests.VerifyFunctionality - Able to complete task T1 successfully
+2023-10-26 13:29:52,518 [main] INFO Tests.VerifyFunctionality - Verifying the clear complete functionality
+2023-10-26 13:29:52,629 [main] INFO Tests.VerifyFunctionality - Clear Complete tasks is successful
+2023-10-26 13:31:44,832 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:31:45,107 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Header Title
+2023-10-26 13:31:45,190 [main] INFO Tests.VerifyLeftMenuUI - Header Title is displaying
+2023-10-26 13:31:45,258 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:31:45,291 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Header fields
+2023-10-26 13:31:45,376 [main] INFO Tests.VerifyLeftMenuUI - Header Child fields are displaying properly
+2023-10-26 13:31:45,416 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:31:45,446 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Official Resources label
+2023-10-26 13:31:45,536 [main] INFO Tests.VerifyLeftMenuUI - Official Resources label is displaying properly
+2023-10-26 13:31:45,561 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Official resources links
+2023-10-26 13:31:45,637 [main] INFO Tests.VerifyLeftMenuUI - Documentation link is displaying properly
+2023-10-26 13:31:45,767 [main] INFO Tests.VerifyLeftMenuUI - API Reference link is displaying properly
+2023-10-26 13:31:45,869 [main] INFO Tests.VerifyLeftMenuUI - Examples link is displaying properly
+2023-10-26 13:31:46,006 [main] INFO Tests.VerifyLeftMenuUI - Vue on Github link is displaying properly
+2023-10-26 13:31:46,050 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:31:46,082 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Community label
+2023-10-26 13:31:46,205 [main] INFO Tests.VerifyLeftMenuUI - Community label is displaying properly
+2023-10-26 13:31:46,321 [main] INFO Tests.VerifyLeftMenuUI - Twitter link is displaying properly
+2023-10-26 13:31:46,457 [main] INFO Tests.VerifyLeftMenuUI - Gitter link is displaying properly
+2023-10-26 13:31:46,568 [main] INFO Tests.VerifyLeftMenuUI - Discussions on Github  link is displaying properly
+2023-10-26 13:31:47,482 [main] INFO Tests.VerifyFunctionality - Successfully Launched the TODO MVC
+2023-10-26 13:31:47,847 [main] INFO Tests.VerifyFunctionality - To Do Label is Displayed
+2023-10-26 13:31:47,847 [main] INFO Tests.VerifyFunctionality - Adding the Tasks
+2023-10-26 13:31:51,232 [main] INFO Tests.VerifyFunctionality - Tasks Added Successfully
+2023-10-26 13:31:51,261 [main] INFO Tests.VerifyFunctionality - Verifying the added Tasks
+2023-10-26 13:31:51,373 [main] INFO Tests.VerifyFunctionality - Added Tasks are displayed successfully
+2023-10-26 13:31:51,445 [main] INFO Tests.VerifyFunctionality - Successfully Launched the TODO MVC
+2023-10-26 13:31:51,553 [main] INFO Tests.VerifyFunctionality - Verifying the Task Completion
+2023-10-26 13:31:51,787 [main] INFO Tests.VerifyFunctionality - Able to complete task T1 successfully
+2023-10-26 13:31:51,850 [main] INFO Tests.VerifyFunctionality - Verifying the clear complete functionality
+2023-10-26 13:31:51,962 [main] INFO Tests.VerifyFunctionality - Clear Complete tasks is successful
+2023-10-26 13:32:19,178 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:32:19,404 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Header Title
+2023-10-26 13:32:19,525 [main] INFO Tests.VerifyLeftMenuUI - Header Title is displaying
+2023-10-26 13:32:19,609 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:32:19,641 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Header fields
+2023-10-26 13:32:19,740 [main] INFO Tests.VerifyLeftMenuUI - Header Child fields are displaying properly
+2023-10-26 13:32:19,779 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:32:19,812 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Official Resources label
+2023-10-26 13:32:19,909 [main] INFO Tests.VerifyLeftMenuUI - Official Resources label is displaying properly
+2023-10-26 13:32:19,934 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Official resources links
+2023-10-26 13:32:20,040 [main] INFO Tests.VerifyLeftMenuUI - Documentation link is displaying properly
+2023-10-26 13:32:20,154 [main] INFO Tests.VerifyLeftMenuUI - API Reference link is displaying properly
+2023-10-26 13:32:20,268 [main] INFO Tests.VerifyLeftMenuUI - Examples link is displaying properly
+2023-10-26 13:32:20,385 [main] INFO Tests.VerifyLeftMenuUI - Vue on Github link is displaying properly
+2023-10-26 13:32:20,439 [main] INFO Tests.VerifyLeftMenuUI - Successfully Launched the TODO MVC
+2023-10-26 13:32:20,465 [main] INFO Tests.VerifyLeftMenuUI - Verifying the Community label
+2023-10-26 13:32:20,621 [main] INFO Tests.VerifyLeftMenuUI - Community label is displaying properly
+2023-10-26 13:32:20,727 [main] INFO Tests.VerifyLeftMenuUI - Twitter link is displaying properly
+2023-10-26 13:32:20,833 [main] INFO Tests.VerifyLeftMenuUI - Gitter link is displaying properly
+2023-10-26 13:32:20,960 [main] INFO Tests.VerifyLeftMenuUI - Discussions on Github  link is displaying properly
+2023-10-26 13:32:21,971 [main] INFO Tests.VerifyFunctionality - Successfully Launched the TODO MVC
+2023-10-26 13:32:22,280 [main] INFO Tests.VerifyFunctionality - To Do Label is Displayed
+2023-10-26 13:32:22,280 [main] INFO Tests.VerifyFunctionality - Adding the Tasks
+2023-10-26 13:32:25,699 [main] INFO Tests.VerifyFunctionality - Tasks Added Successfully
+2023-10-26 13:32:25,727 [main] INFO Tests.VerifyFunctionality - Verifying the added Tasks
+2023-10-26 13:32:25,806 [main] INFO Tests.VerifyFunctionality - Added Tasks are displayed successfully
+2023-10-26 13:32:25,875 [main] INFO Tests.VerifyFunctionality - Successfully Launched the TODO MVC
+2023-10-26 13:32:25,983 [main] INFO Tests.VerifyFunctionality - Verifying the Task Completion
+2023-10-26 13:32:26,238 [main] INFO Tests.VerifyFunctionality - Able to complete task T1 successfully
+2023-10-26 13:32:26,299 [main] INFO Tests.VerifyFunctionality - Verifying the clear complete functionality
+2023-10-26 13:32:26,403 [main] INFO Tests.VerifyFunctionality - Clear Complete tasks is successful
