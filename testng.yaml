@@ -1,0 +1,11 @@
+name: Main Test Suite
+configFailurePolicy: skip
+tests:
+  - name: TestCase1
+  classes:
+    - Tests.TestCase1
+
+  - name: TestCase2
+  classes:
+    - Tests.TestCase2
+
