@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-26T13:32:18 IST" name="Main Test Suite" finished-at="2023-10-26T13:32:26 IST" duration-ms="8196">
+    <groups>
+    </groups>
+    <test started-at="2023-10-26T13:32:18 IST" name="VerifyLeftMenuUI" finished-at="2023-10-26T13:32:21 IST" duration-ms="2903">
+      <class name="Tests.VerifyLeftMenuUI">
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:Tests.VerifyLeftMenuUI@29539e36]" started-at="2023-10-26T13:32:18 IST" name="launchURL" finished-at="2023-10-26T13:32:19 IST" duration-ms="749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="verifyLeftMenuHeader()[pri:1, instance:Tests.VerifyLeftMenuUI@29539e36]" started-at="2023-10-26T13:32:19 IST" name="verifyLeftMenuHeader" finished-at="2023-10-26T13:32:19 IST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLeftMenuHeader -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:Tests.VerifyLeftMenuUI@29539e36]" started-at="2023-10-26T13:32:19 IST" name="launchURL" finished-at="2023-10-26T13:32:19 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="verifyLeftMenuHeaderFields()[pri:2, instance:Tests.VerifyLeftMenuUI@29539e36]" started-at="2023-10-26T13:32:19 IST" name="verifyLeftMenuHeaderFields" finished-at="2023-10-26T13:32:19 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLeftMenuHeaderFields -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:Tests.VerifyLeftMenuUI@29539e36]" started-at="2023-10-26T13:32:19 IST" name="launchURL" finished-at="2023-10-26T13:32:19 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="verifyOfficialResourcesLinks()[pri:3, instance:Tests.VerifyLeftMenuUI@29539e36]" started-at="2023-10-26T13:32:19 IST" name="verifyOfficialResourcesLinks" finished-at="2023-10-26T13:32:20 IST" duration-ms="606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOfficialResourcesLinks -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:Tests.VerifyLeftMenuUI@29539e36]" started-at="2023-10-26T13:32:20 IST" name="launchURL" finished-at="2023-10-26T13:32:20 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="verifyCommunityLinks()[pri:4, instance:Tests.VerifyLeftMenuUI@29539e36]" started-at="2023-10-26T13:32:20 IST" name="verifyCommunityLinks" finished-at="2023-10-26T13:32:20 IST" duration-ms="520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCommunityLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.VerifyLeftMenuUI@29539e36]" started-at="2023-10-26T13:32:20 IST" name="tearDown" finished-at="2023-10-26T13:32:21 IST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.VerifyLeftMenuUI -->
+    </test> <!-- VerifyLeftMenuUI -->
+    <test started-at="2023-10-26T13:32:21 IST" name="VerifyFunctionality" finished-at="2023-10-26T13:32:26 IST" duration-ms="5281">
+      <class name="Tests.VerifyFunctionality">
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:Tests.VerifyFunctionality@4c5204af]" started-at="2023-10-26T13:32:21 IST" name="launchURL" finished-at="2023-10-26T13:32:21 IST" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="verifyTaskAddition()[pri:1, instance:Tests.VerifyFunctionality@4c5204af]" started-at="2023-10-26T13:32:21 IST" name="verifyTaskAddition" finished-at="2023-10-26T13:32:25 IST" duration-ms="3835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTaskAddition -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:Tests.VerifyFunctionality@4c5204af]" started-at="2023-10-26T13:32:25 IST" name="launchURL" finished-at="2023-10-26T13:32:25 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="verifyTaskCompletion()[pri:2, instance:Tests.VerifyFunctionality@4c5204af]" started-at="2023-10-26T13:32:25 IST" name="verifyTaskCompletion" finished-at="2023-10-26T13:32:26 IST" duration-ms="528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTaskCompletion -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.VerifyFunctionality@4c5204af]" started-at="2023-10-26T13:32:26 IST" name="tearDown" finished-at="2023-10-26T13:32:26 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.VerifyFunctionality -->
+    </test> <!-- VerifyFunctionality -->
+  </suite> <!-- Main Test Suite -->
+</testng-results>
